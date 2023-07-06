@@ -6,7 +6,7 @@ Once the project is running, you can access the API at http://localhost:3000.
 
 ## Usage
 
-You can perform customer and order operations by sending HTTP requests to the API. Requests should be in JSON format. You can use the following endpoints for different operations:
+You can perform customer and order operations by sending HTTP requests to the API. You can use the following endpoints for different operations:
 
 - `GET /customers` : Retrieves a list of all customers.
 - `GET /customers/:customerId` : Retrieves details of a specific customer.
