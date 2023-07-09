@@ -1,6 +1,6 @@
-# Customer-Order Management API
+# Order Management API
 
-This project provides an API for customer-order management. You can create, update, and delete customer information and orders. The data is stored in a PostgreSQL database.
+This project provides an API for order management. You can create, update, and delete customer information and customer's orders. The data is stored in a PostgreSQL database.
 
 Once the project is running, you can access the API at http://localhost:3000.
 
